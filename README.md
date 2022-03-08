@@ -1,6 +1,7 @@
 # PILA COMPLETA ADIDA 
-
-_Un lente en Learn Studio con l atematica de dia de muertos_
+[![Captura-de-pantalla-2022-03-07-224353.png](https://i.postimg.cc/RCLD2GLW/Captura-de-pantalla-2022-03-07-224353.png)](https://postimg.cc/Cdd7qGt0)
+[![Captura-de-pantalla-2022-03-07-224420.png](https://i.postimg.cc/3N1fpJxX/Captura-de-pantalla-2022-03-07-224420.png)](https://postimg.cc/FkfxXvcz)
+_Proyecto de pila completa simulando una tienda de Roma, Calzado_
 
 ## Comenzando 🚀
 
